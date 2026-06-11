@@ -211,7 +211,7 @@ main{
     transform: scale(1.02);
 }
 
-.kontainerportfolio{
+.kontainerportofolio{
     display: flex;
     gap: 20px;
     margin-top: 40px;
