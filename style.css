@@ -44,7 +44,7 @@ header{
 }
 
 .navbar li a:hover{
-    color: yellow;
+    color: rgb(239, 188, 46);
 }
 
 main{
